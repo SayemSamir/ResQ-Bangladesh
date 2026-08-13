@@ -1,4 +1,23 @@
+# Virtual Environment
 backend/venv/
+venv/
+ENV/
+
+# Python Cache & Compiled Files
 *.pyc
 __pycache__/
+*.pyo
+*.pyd
+
+# Environment Variables
 .env
+.env.*
+
+# Databases & Local Storage
+*.db
+*.sqlite3
+*.log
+
+# IDE & Editor Settings
+.vscode/
+.idea/
