@@ -24,3 +24,9 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+
+node_modules/
+client/node_modules/
+frontend/node_modules/
+dist/
+.env
